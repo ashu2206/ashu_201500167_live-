@@ -5,7 +5,7 @@
     font-family: 'Poppins', sans-serif;
 }
 .sec-1{
-    background-image: url(./img.avif) ;
+    background-image: url(./img3.avif) ;
     min-height:100vh;
    background-position: center;
     background-size: cover;
@@ -49,7 +49,7 @@
    
     display: flex;
     justify-content: center;
-    margin-top: 200px;
+    margin-top: 150px;
     text-align: center;
 
 }
@@ -63,6 +63,7 @@
  #logo{
     margin-top: 10px;
     width:10%;
+    
     
 
 }
@@ -95,15 +96,15 @@
 
 }
 footer{
-    background-color: white;
-    
+    background-color: rgb(183, 94, 123);
+    color:white;
     position: absolute;
     bottom: 0px;
     height:60px;
     width:100%;
 }
 .navbar .link:hover{
-color:green;
+color:blue;
 transition-duration: 1s;
 }
 footer{
